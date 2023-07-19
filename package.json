@@ -1,0 +1,31 @@
+{
+  "name": "react-by-shrey---",
+  "version": "1.0.0",
+  "description": "this is my first react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrey3219/react-by-shrey---.git"
+  },
+  "keywords": [
+    "shrey",
+    "jain"
+  ],
+  "author": "shrey jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shrey3219/react-by-shrey---/issues"
+  },
+  "homepage": "https://github.com/shrey3219/react-by-shrey---#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
